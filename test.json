@@ -1,0 +1,40 @@
+{
+  "Username": "admin",
+  "Password": "123456"
+}
+
+{
+  "IdDistribucion": 0,
+  "Rut_Proveedor": "12345678-5",
+  "Doc_Cenabast": 323456789,
+  "Factura": 123987,
+  "Fecha_Fac": "01-04-2020",
+  "Guia": 0,
+  "Fecha_Gui": "",
+  "O_Trans": "",
+  "FechaCreacion": "",
+  "FechaActualizacion": "",
+  "Detalles": [
+    {
+      "IdDistribucionDetalle": 0,
+      "Doc_Cenabast": 323456789,
+      "Articulo": 100000000,
+      "Lote": "l002",
+      "Cantidad": 12,
+      "FechaCreacion": "",
+      "FechaActualizacion": ""
+    }
+  ],
+  "Movimientos": [
+    {
+      "IdDistribucionMovimiento": 0,
+      "Doc_Cenabast": 323456789,
+      "Fecha": "01-04-2020",
+      "Hora": "15:49:23",
+      "DescMovimiento": "SALIDA DE MERCANCIA",
+      "RecibidoPor": "",
+      "FechaCreacion": "",
+      "FechaActualizacion": ""
+    }
+  ]
+}
